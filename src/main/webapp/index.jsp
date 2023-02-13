@@ -11,7 +11,7 @@ Date of Joining: <input type="date" id="doj" name="doj" placeholder="Date of Joi
 <button id="submitForm">Submit</button>
 <script>
 let a = document.getElementById("submitForm");
-a.addEventListener("click",function() 
+a.addEventListener("click",function()
 {
 alert("Employee details has been Submitted.");
 });
