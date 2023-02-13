@@ -15,7 +15,5 @@ a.addEventListener("click",function()
 {
 alert("Employee details has been Submitted.");
 });
-</script>
-</form>   
-</body>      
+</script></form></body>      
 </html>
