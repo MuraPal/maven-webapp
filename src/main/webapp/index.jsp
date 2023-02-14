@@ -4,6 +4,7 @@
 <body>
 <form>
 <img src = "https://github.com/MuraPal/maven-webapp/blob/master/src/main/webapp/MicrosoftTeams-image%20(34).png?raw=true"/><br>
+Employee id: <input type="text" id="name" name="name" placeholder="Your Name"/><br/>
 Employee name: <input type="text" id="name" name="name" placeholder="Your Name"/><br/>
 Designation: <input type="text" id="designation" name="designation" placeholder="Designation"/><br/>
 Email: <input type="email" id="mail" name="mail" placeholder="Email Address"/><br/>
